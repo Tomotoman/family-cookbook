@@ -1,0 +1,9 @@
+/*Custom styled CSS for this website*/
+div.jumbotron {
+  color: slategrey;
+  text-align: center;
+}
+
+div.container  {
+  font-size: 16px;
+}
