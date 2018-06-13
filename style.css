@@ -1,4 +1,8 @@
 /*Custom styled CSS for this website*/
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Karma", sans-serif;
+}
+
 div.jumbotron {
   color: slategrey;
   text-align: center;
@@ -6,4 +10,8 @@ div.jumbotron {
 
 div.container  {
   font-size: 16px;
+}
+
+.container {
+    background-repeat: no-no-repeat;
 }
